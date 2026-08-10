@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fall back to the store's default backorder message on PDP when a product has no explicit message assignment or references a deleted message [#2708](https://github.com/bigcommerce/cornerstone/pull/2708)
 - Decouple "Show backorder message" from "Qty on Backorder" settings so each works independently on PDP [#2701](https://github.com/bigcommerce/cornerstone/pull/2701)
 - Fix shipping expectation message alignment on the cart page [#2699](https://github.com/bigcommerce/cornerstone/pull/2699)
+- Added new search placeholder text when semantic is enabled [#2720](https://github.com/bigcommerce/cornerstone/pull/2720)
 
 ## 6.20.0 (07-02-2026)
 - Display the cart shipping expectation prompt on its own full-width row beneath the Shipping label, keeping the shipping cost on the same row as the Shipping label [#2692](https://github.com/bigcommerce/cornerstone/pull/2692)
